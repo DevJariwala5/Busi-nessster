@@ -14,6 +14,9 @@
 
 ![Screenshot_2023-08-05_13-50-21](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/2205743f-1464-4fb4-a8d6-e8b96a192bd2)
 
+![Screenshot_2023-08-05_13-51-05](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/0a26de44-9d5a-4bd8-87ec-4d5d7460427c)
+
+
 
 
 

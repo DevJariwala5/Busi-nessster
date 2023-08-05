@@ -15,6 +15,17 @@
 ![Screenshot_2023-08-05_13-50-21](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/2205743f-1464-4fb4-a8d6-e8b96a192bd2)
 
 ![Screenshot_2023-08-05_13-51-05](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/0a26de44-9d5a-4bd8-87ec-4d5d7460427c)
+![Screenshot_2023-08-05_13-57-51](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/385571f2-bd8a-4a8e-b0f3-7cc42ec557cc)
+
+![Screenshot_2023-08-05_13-58-36](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/c059b358-6f9f-49ea-b812-bbfe64a74ca4)
+![Screenshot_2023-08-05_13-58-51](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/2b671945-93a2-4624-aefa-3215c7fdb933)
+![Screenshot_2023-08-05_13-58-56](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/013d2526-e3d2-4dae-b005-f8ba2bc148ee)
+![Screenshot_2023-08-05_13-59-02](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/3d0d13fb-0a71-434e-a34d-94900c0a0877)
+![Screenshot_2023-08-05_13-59-07](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/e1547f12-3887-4923-ad75-4985b719f6bc)
+![Screenshot_2023-08-05_13-59-14](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/9aca0830-008b-4697-a4a1-fbffb172e94d)
+
+
+![Screenshot_2023-08-05_13-59-21](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/f4619746-2d7c-446f-ae6c-6ad0b41de638)
 
 
 

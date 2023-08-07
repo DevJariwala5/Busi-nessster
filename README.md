@@ -1,4 +1,58 @@
 # Busss-inester
+         Back End	        :  MY-SQL VERSION 5.6.17
+         Framework	        :  Core PHP
+3.Problem Specification
+
+3.1 Introduction, Objectives and Purpose
+
+3.1.1 Introduction
+
+		Busi-Nesster is an website which provides the facility to Business/Start-Ups and Investor. Business is to be registered and the Investor can invest in any particular business by bidding on it. 
+
+		The admin of website has all the access ot the Business and Investors. Admin has the authority of Business is active or Inactive. Registered Investor are allowed to invest in business after buying subscription. Subscription packages includes number of bids.
+
+		The goal of the website is to grow business and smart investing.
+
+3.1.2 Objectives
+
+Following are the objectives with which development have been started for Busi-Nesster.
+1)	Admin Module
+The Administrator can perform following tasks.
+	Deals:
+ Admin can see how many deals are done and between whom.
+=>	Business Categories Management:
+Admin can Add, Delete or Edit Business categories.
+=>	Types :
+All details of Business and Investors.
+=>	Packages Management:
+Admin can add/delete/update packages.
+	Blog Management :
+Admin can  Add, Delete or Edit all Blogs.
+
+
+
+2)	Business Module
+The Business can perform following tasks.
+=>	Login/Signup:
+New business are allowed to create their own account and registered business are allowed to login in their account.
+	Business Management:
+Business can add all the details, details can also be removed/updated. 
+
+3)	Investor Module
+The investor can perform following tasks.
+=>	Login/Signup:
+Investor can create their new account to invest in business.
+=>	View business:
+ Investor can see all those businesses and can bid on selected business.
+=>	Account management:
+Investor can edit and delete from his/her account details.
+
+ Purpose-Scope
+
+•	The goal of Busi-Nesster is to give a platform where new business ideas get funds from investor and on the other hand a person who wants to invest in companies and can take risks con invest on business.
+•	Busi-Nesster is also useful to the business as it helps to boost up the  process and the boundary of their business is also increased as they put up their product on website.
+![image](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/e90dbc60-6d7d-4433-8eeb-ba4e5872d6b2)
+
 
 ![image](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/c24888e7-204c-43ae-8dcf-4d11c8eb7a63)
 

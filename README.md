@@ -53,6 +53,9 @@ Investor can edit and delete from his/her account details.
 •	Busi-Nesster is also useful to the business as it helps to boost up the  process and the boundary of their business is also increased as they put up their product on website.
 ![image](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/e90dbc60-6d7d-4433-8eeb-ba4e5872d6b2)
 
+![Screenshot_2023-08-07_06-21-54](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/7b64220d-3920-4d58-ba38-31149fc806cd)
+
+
 
 ![image](https://github.com/DevJariwala5/Busi-nessster/assets/111644496/c24888e7-204c-43ae-8dcf-4d11c8eb7a63)
 

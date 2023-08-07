@@ -1,11 +1,11 @@
 # Busss-inester
          Back End	        :  MY-SQL VERSION 5.6.17
          Framework	        :  Core PHP
-3.Problem Specification
+Problem Specification
 
-3.1 Introduction, Objectives and Purpose
+Introduction, Objectives and Purpose
 
-3.1.1 Introduction
+Introduction
 
 		Busi-Nesster is an website which provides the facility to Business/Start-Ups and Investor. Business is to be registered and the Investor can invest in any particular business by bidding on it. 
 
@@ -13,12 +13,12 @@
 
 		The goal of the website is to grow business and smart investing.
 
-3.1.2 Objectives
+Objectives
 
 Following are the objectives with which development have been started for Busi-Nesster.
 1)	Admin Module
 The Administrator can perform following tasks.
-	Deals:
+=>	Deals:
  Admin can see how many deals are done and between whom.
 =>	Business Categories Management:
 Admin can Add, Delete or Edit Business categories.
